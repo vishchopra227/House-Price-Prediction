@@ -1,14 +1,14 @@
 import streamlit as st
 import pickle
 
-# Load model
+# Loads the  model
 model = pickle.load(open("house_price_model.pkl", "rb"))
 
 st.set_page_config(page_title="House Price Predictor")
 
 st.title("🏠 House Price Predictor")
 
-# User inputs
+# taking the User inputs 
 area = st.number_input(
     "Enter Area (sq.ft)",
     min_value=0.0,
@@ -32,7 +32,7 @@ bathrooms = st.number_input(
     format="%.1f"
 )
 
-# Prediction
+# Prediction of the prices 
 if st.button("Predict Price"):
 
     if area is None:
