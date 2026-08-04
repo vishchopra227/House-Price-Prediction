@@ -38,17 +38,6 @@ A Machine Learning project that predicts house prices using **Linear Regression*
 - Linear Regression
 
 ---
-
-## 📂 Project Structure
-
-```
-House-Price-Prediction/
-│── dataset.csv
-│── House_Price_Prediction.ipynb
-│── requirements.txt
-│── README.md
-```
-
 ---
 
 ## 🚀 Setup Instructions
