@@ -40,3 +40,4 @@ if st.button("Predict Price"):
     else:
         prediction = model.predict([[area, bedrooms, bathrooms]])
         st.success(f"💰 Predicted Price: ₹{prediction[0]:,.2f}")
+        
