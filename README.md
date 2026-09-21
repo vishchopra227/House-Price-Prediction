@@ -5,7 +5,7 @@ A Machine Learning project that predicts house prices using **Linear Regression*
 ---
 Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
  
-## 🚀 Features
+## 🚀 Features 
 
 - 📊 Predict house prices using **Linear Regression**
 - 🧹 Data preprocessing and cleaning
