@@ -15,7 +15,7 @@ Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
 - ⚡ Fast prediction on unseen data
 - 💻 Easy-to-understand implementation
  
----
+--- 
 
 ## 🧠 How It Works
 
