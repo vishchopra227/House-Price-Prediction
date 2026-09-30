@@ -17,7 +17,7 @@ Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
  
 --- 
 
-## 🧠 How It Works
+## 🧠 How It Works  
 
 1. Load the housing dataset
 2. Clean missing and inconsistent values
