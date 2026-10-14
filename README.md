@@ -8,7 +8,7 @@ Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
 ## 🚀 Features    
 
 - 📊 Predict house prices using **Linear Regression**
-- 🧹 Data preprocessing and cleaning
+- 🧹 Data preprocessing and cleaning 
 - 📈 Feature selection and scaling  
 - 🔍 Train-Test Split for model evaluation
 - 📉 Performance evaluation using R² Score, MAE, and RMSE
