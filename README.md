@@ -11,7 +11,7 @@ Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
 - 🧹 Data preprocessing and cleaning 
 - 📈 Feature selection and scaling  
 - 🔍 Train-Test Split for model evaluation
-- 📉 Performance evaluation using R² Score, MAE, and RMSE 
+- 📉 Performance evaluation using R² Score, MAE, and RMSE  
 - ⚡ Fast prediction on unseen data 
 - 💻 Easy-to-understand implementation   
  
