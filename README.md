@@ -1,11 +1,11 @@
-# 🏠 House Price Prediction using Linear Regression
+ # 🏠 House Price Prediction using Linear Regression
 
 A Machine Learning project that predicts house prices using **Linear Regression**. The project demonstrates the complete ML workflow, including data preprocessing, feature engineering, model training, evaluation, and prediction through a simple and efficient pipeline.
 
 ---
 Live Demo: https://house-price-prediction-a5qmrholxsqrgnu4hwinkx.streamlit.app/
     
-## 🚀 Features     
+## 🚀 Features      
 
 - 📊 Predict house prices using **Linear Regression** 
 - 🧹 Data preprocessing and cleaning 
